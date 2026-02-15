@@ -4,6 +4,7 @@
 🎓 Embedded Systems Security Master's Student at Grenoble INP – Esisar  
 🔐 Hardware Security | Embedded Systems | FPGA | Cryptography  
 ⚡ Firmware Engineer | STM32 | Secure Hardware Design
+
 📍 Grenoble, France  
 
 ---
