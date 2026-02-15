@@ -4,6 +4,7 @@
 
 🎓 Embedded Systems Security Master's Student at Grenoble INP – Esisar  
 🔐 Hardware Security | Embedded Systems | FPGA | Cryptography  
+⚡ Firmware Engineer | STM32 | Secure Hardware Design
 📍 Grenoble, France  
 
 ---
@@ -12,18 +13,15 @@
 
 I am an Embedded Systems Security engineer specializing in secure firmware, hardware cryptography, and FPGA-based system design. My work focuses on hardware security attacks and secure embedded architectures.
 
-- 🔐 AES Side-Channel Analysis (CPA) on STM32
-- ⚡ Fault Injection attacks on embedded cryptographic systems
-- 🧠 FPGA-based secure encryption modules (Zynq-7000)
-- 📡 RFID Phase-based localization systems
-
 ---
 
 ## 🛠️ Technical Skills
 
 **Embedded Systems**
-- STM32, ESP32, nRF52, PIC
+- STM32, ESP32, nRF52, PIC, Raspberry Pi
+- Free RTOS, Embedded Linux
 - Embedded C, C++
+  
 
 **Hardware Security**
 - Side-Channel Analysis
@@ -51,10 +49,29 @@ I am an Embedded Systems Security engineer specializing in secure firmware, hard
 
 ---
 
+## 📊 GitHub Stats
+
+![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzairashfaq85&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairashfaq85&layout=compact&theme=dark)
+
+---
+
 ## 📫 Contact
 
 - LinkedIn: www.linkedin.com/in/uzairashfaq85
-- Email: your-email@example.com
+- Email: uzairashfaq85@gmail.com
+
+---
+
+## 🎯 Career Focus
+
+I am actively building expertise in:
+
+- Secure embedded systems
+- Hardware security research
+- Secure firmware architecture
+- RTLS & RFID
 
 ---
 
