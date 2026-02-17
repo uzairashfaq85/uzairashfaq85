@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am an Embedded Systems Security engineer specializing in secure firmware, hardware cryptography, and FPGA-based system design. My work focuses on hardware security attacks and secure embedded architectures.
+I am an Embedded Systems Security engineer specializing in secure firmware, PCB design, hardware cryptography, and FPGA-based system design. My current work focuses on hardware security attacks and secure embedded architectures and RTLS.
 
 ---
 
