@@ -1,10 +1,11 @@
 # Hi, I'm Uzair Ashfaq 👋
 
-🎓 **Embedded Systems Security Master's Student – Grenoble INP-Esisar**
-🔐 Hardware Security | Embedded Systems | FPGA | Cryptography
-⚡ Firmware Engineer | STM32 | Secure Hardware Design
+I am an Embedded Systems Security engineer specializing in secure firmware development, hardware cryptography, and FPGA-based system design
 
-📍 Grenoble, France
+* 🎓 **Embedded Systems Security Master's Student – Grenoble INP-Esisar**
+* 🔐 Hardware Security
+* ⚡ Firmware Engineer 
+* 📍 Grenoble, France
 
 ---
 
@@ -26,9 +27,9 @@
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/uzairashfaq85)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/uzaireeyy_23)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:uzairashfaq85@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/uzairashfaq85)
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/uzaireeyy_23)
+* [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:uzairashfaq85@gmail.com)
 
 ---
 # 💼 Current Role
