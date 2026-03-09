@@ -44,7 +44,7 @@ I am an Embedded Systems Security engineer specializing in secure firmware devel
 ![Python](https://img.shields.io/badge/Python-Data_Pipelines-yellow?style=for-the-badge\&logo=python\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Deployment-black?style=for-the-badge\&logo=linux\&logoColor=white)
 
-* Developing a **Standalone Software Service Platform (SSP)** for **UHF RFID-based RTLS systems**.
+* Developing a **![Standalone SSP](https://acceliot.com/ssp/)** for **UHF RFID-based RTLS systems**.
 * Processing **RFID reader data** *(RSSI, phase, timestamps, antenna IDs)*.
 * Implementing **phase calibration & AoA positioning features**.
 * Building **Python pipelines** using **NumPy, Pandas, and SciPy**.
