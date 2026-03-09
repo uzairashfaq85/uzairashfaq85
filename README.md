@@ -34,7 +34,7 @@
 # 💼 Current Role
 
 ### Embedded Systems Engineer Intern 
-![ACCELIOT](https://acceliot.com/wp-content/uploads/2024/02/Dark-horizontal.svg)
+<img src="https://acceliot.com/wp-content/uploads/2024/02/Dark-horizontal.svg" width="250"/>
 
 📅 Feb 2026 – Present
 
