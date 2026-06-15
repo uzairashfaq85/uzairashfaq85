@@ -151,7 +151,7 @@ An embedded RFID system delivering real-time data ingestion, structured payload 
 | Project | Description | Stack | Repository |
 | --- | --- | --- | --- |
 | RSA Modular Arithmetic — FPGA | VHDL RSA pipeline on Basys-3: FSM modular multiplier, square-and-multiply exponentiation, 7-segment integration, verified under GHDL | VHDL, Basys-3, Vivado, GHDL | [GitHub](https://github.com/uzairashfaq85/Hardware-Implementation-of-Modular-Arithmetic-for-the-RSA-Algorithm) |
-| RFID Phase-Based Localization | Python RFID phase/RSSI data processing for indoor positioning experiments | Python, RFID, Signal Processing | [GitHub]([https://github.com/uzairashfaq85](https://github.com/uzairashfaq85/AI-LOC)) |
+| RFID Phase-Based Localization | Python RFID phase/RSSI data processing for indoor positioning experiments | Python, RFID, Signal Processing | [GitHub](https://github.com/uzairashfaq85/AI-LOC) |
 
 ---
 
