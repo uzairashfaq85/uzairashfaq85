@@ -17,9 +17,9 @@ Firmware • RFID Systems • RTLS • IoT • Hardware–Software Integration
 
 ## About
 
-Embedded software engineer with firmware development and PCB design experience across industrial and IoT systems, currently specializing in UHF RFID/RTLS. I build reliable embedded software close to the hardware — real-time data ingestion, device communication, structured payload construction, and the integration work that takes a system from bench prototype to production deployment.
+Embedded software engineer with firmware development and PCB design experience across industrial and IoT systems, currently specializing in UHF RFID/RTLS. I build reliable embedded software close to the hardware, real-time data ingestion, device communication, structured payload construction, and the integration work that takes a system from bench prototype to production deployment.
 
-Most recently I built and deployed a production RFID Smart Space Portal pipeline at Acceliot on Impinj R700 and Zebra FXR90 readers, achieving 99.8% average accuracy in real-world retail testing. My focus is the parts of a system that have to actually work in the field: reliability, debugging, clean device-to-system data flow, and measurable outcomes.
+Most recently, I built and deployed a production RFID Smart Space Portal pipeline at Acceliot on Impinj R700 and Zebra FXR90 readers, achieving 99.8% average accuracy in real-world retail testing. My focus is on the parts of a system that have to actually work in the field: reliability, debugging, clean device-to-system data flow, and measurable outcomes.
 
 ---
 
@@ -39,17 +39,87 @@ Most recently I built and deployed a production RFID Smart Space Portal pipeline
 
 ---
 
-## Skills
+### Programming Languages
 
-**Languages:** C, Embedded C/C++, Python, ARM Assembly, VHDL, Verilog
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-black?style=for-the-badge\&logo=arm\&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-blue?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-orange?style=for-the-badge)
 
-**Embedded / Firmware:** STM32 (HAL/LL), PIC18F, ESP32, AVR, Raspberry Pi, FreeRTOS, Zephyr, Embedded Linux, UART, SPI, I2C, CAN, BLE, GPIO/event handling, interrupts, hardware debugging
+---
 
-**RFID / RTLS / IoT:** UHF RFID, Impinj R700, Zebra FXR90, EPC Gen2, LLRP, IoT Device Interface, RFID phase/RSSI data processing, structured payload construction, reader integration, device-to-system data flow
+### Data Processing & ML
 
-**Data & ML:** NumPy, Pandas, SciPy, scikit-learn
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
-**Tools:** Altium Designer, STM32CubeIDE, Xilinx Vivado/Vitis, QuestaSim, MATLAB, Git, GitHub, JTAG debuggers, Linux
+---
+
+### Microcontrollers & Platforms
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC18F-003A8F?style=for-the-badge)
+![AVR](https://img.shields.io/badge/AVR-8BC34A?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge\&logo=espressif\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge\&logo=raspberry-pi\&logoColor=white)
+![Zybo Z7-10](https://img.shields.io/badge/Zybo_Z7--10-FPGA-red?style=for-the-badge)
+![Basys-3](https://img.shields.io/badge/Basys--3-FPGA-orange?style=for-the-badge)
+
+---
+
+### FPGA Development
+
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge)
+![Vitis](https://img.shields.io/badge/Xilinx_Vitis-E01F27?style=for-the-badge)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-blue?style=for-the-badge)
+
+---
+
+### Communication Protocols
+
+![UART](https://img.shields.io/badge/UART-grey?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-blue?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-green?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-orange?style=for-the-badge)
+![BLE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
+
+---
+
+### Operating Systems
+
+![Bare Metal](https://img.shields.io/badge/Bare_Metal-black?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-yellow?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+### Embedded Security
+
+![Cryptography](https://img.shields.io/badge/Cryptography-AES-red?style=for-the-badge)
+![Side Channel Analysis](https://img.shields.io/badge/Side_Channel_Analysis-black?style=for-the-badge)
+![CPA](https://img.shields.io/badge/CPA-blue?style=for-the-badge)
+![Fault Injection](https://img.shields.io/badge/Fault_Injection-purple?style=for-the-badge)
+![DFA](https://img.shields.io/badge/Differential_Fault_Analysis-darkred?style=for-the-badge)
+
+---
+
+### Development Tools
+
+![Vivado](https://img.shields.io/badge/Vivado-red?style=for-the-badge)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge)
+![MPLAB](https://img.shields.io/badge/MPLAB_X-orange?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium_Designer-red?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-yellow?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)
+
 
 ---
 
@@ -61,7 +131,7 @@ An embedded RFID system delivering real-time data ingestion, structured payload 
 
 | Metric | Detail |
 | --- | --- |
-| Deployment | Live retail / production environment |
+| Deployment | Live retail/production environment |
 | Hardware | Impinj R700, Zebra FXR90 |
 | Scale | Tested on carts carrying 500+ RFID-tagged items |
 | Accuracy | 99.8% average accuracy in real-world retail testing |
@@ -80,10 +150,8 @@ An embedded RFID system delivering real-time data ingestion, structured payload 
 
 | Project | Description | Stack | Repository |
 | --- | --- | --- | --- |
-| RSA Modular Arithmetic — FPGA | VHDL RSA pipeline on Basys-3: FSM modular multiplier, square-and-multiply exponentiation, 7-segment integration, verified under GHDL | VHDL, Basys-3, Vivado, GHDL | [GitHub](https://github.com/uzairashfaq85) |
-| RFID Phase-Based Localization | Python RFID phase/RSSI data processing for indoor positioning experiments | Python, RFID, Signal Processing | [GitHub](https://github.com/uzairashfaq85) |
-
-> **TODO before publishing:** replace the two repository links above with exact repo URLs, and add 1–2 more real public repositories (embedded firmware / IoT / C systems) after confirming names. Do not publish with placeholder links.
+| RSA Modular Arithmetic — FPGA | VHDL RSA pipeline on Basys-3: FSM modular multiplier, square-and-multiply exponentiation, 7-segment integration, verified under GHDL | VHDL, Basys-3, Vivado, GHDL | [GitHub](https://github.com/uzairashfaq85/Hardware-Implementation-of-Modular-Arithmetic-for-the-RSA-Algorithm) |
+| RFID Phase-Based Localization | Python RFID phase/RSSI data processing for indoor positioning experiments | Python, RFID, Signal Processing | [GitHub]([https://github.com/uzairashfaq85](https://github.com/uzairashfaq85/AI-LOC)) |
 
 ---
 
@@ -127,10 +195,15 @@ An embedded RFID system delivering real-time data ingestion, structured payload 
 
 </div>
 
-> **Check before publishing:** confirm these cards render numbers that *support* the production narrative. If commit counts are thin or the language mix is dominated by coursework, remove this section — a weak stats card undercuts a strong CV.
 
 ---
 
+### Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+
+---
 ## Currently Focused On
 
 ```yaml
